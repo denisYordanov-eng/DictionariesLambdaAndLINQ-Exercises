@@ -1,0 +1,7 @@
+C:\Users\Laptop\Desktop\C#\Dictionaries, Lambda and LINQ - Exercises\DictionariesLambdaAndLINQ-Exercises\02-PhonebookUpgrade\bin\Debug\02-PhonebookUpgrade.exe.config
+C:\Users\Laptop\Desktop\C#\Dictionaries, Lambda and LINQ - Exercises\DictionariesLambdaAndLINQ-Exercises\02-PhonebookUpgrade\bin\Debug\02-PhonebookUpgrade.exe
+C:\Users\Laptop\Desktop\C#\Dictionaries, Lambda and LINQ - Exercises\DictionariesLambdaAndLINQ-Exercises\02-PhonebookUpgrade\bin\Debug\02-PhonebookUpgrade.pdb
+C:\Users\Laptop\Desktop\C#\Dictionaries, Lambda and LINQ - Exercises\DictionariesLambdaAndLINQ-Exercises\02-PhonebookUpgrade\obj\Debug\02-PhonebookUpgrade.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\C#\Dictionaries, Lambda and LINQ - Exercises\DictionariesLambdaAndLINQ-Exercises\02-PhonebookUpgrade\obj\Debug\02-PhonebookUpgrade.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\C#\Dictionaries, Lambda and LINQ - Exercises\DictionariesLambdaAndLINQ-Exercises\02-PhonebookUpgrade\obj\Debug\02-PhonebookUpgrade.exe
+C:\Users\Laptop\Desktop\C#\Dictionaries, Lambda and LINQ - Exercises\DictionariesLambdaAndLINQ-Exercises\02-PhonebookUpgrade\obj\Debug\02-PhonebookUpgrade.pdb
