@@ -1,0 +1,7 @@
+C:\Users\Laptop\Desktop\C#\Dictionaries, Lambda and LINQ - Exercises\DictionariesLambdaAndLINQ-Exercises\03-AMinerTask\bin\Debug\03-AMinerTask.exe.config
+C:\Users\Laptop\Desktop\C#\Dictionaries, Lambda and LINQ - Exercises\DictionariesLambdaAndLINQ-Exercises\03-AMinerTask\bin\Debug\03-AMinerTask.exe
+C:\Users\Laptop\Desktop\C#\Dictionaries, Lambda and LINQ - Exercises\DictionariesLambdaAndLINQ-Exercises\03-AMinerTask\bin\Debug\03-AMinerTask.pdb
+C:\Users\Laptop\Desktop\C#\Dictionaries, Lambda and LINQ - Exercises\DictionariesLambdaAndLINQ-Exercises\03-AMinerTask\obj\Debug\03-AMinerTask.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\C#\Dictionaries, Lambda and LINQ - Exercises\DictionariesLambdaAndLINQ-Exercises\03-AMinerTask\obj\Debug\03-AMinerTask.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\C#\Dictionaries, Lambda and LINQ - Exercises\DictionariesLambdaAndLINQ-Exercises\03-AMinerTask\obj\Debug\03-AMinerTask.exe
+C:\Users\Laptop\Desktop\C#\Dictionaries, Lambda and LINQ - Exercises\DictionariesLambdaAndLINQ-Exercises\03-AMinerTask\obj\Debug\03-AMinerTask.pdb
