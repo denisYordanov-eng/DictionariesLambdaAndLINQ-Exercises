@@ -1,0 +1,7 @@
+C:\Users\Laptop\Desktop\C#\Dictionaries, Lambda and LINQ - Exercises\DictionariesLambdaAndLINQ-Exercises\04-FixEmails\bin\Debug\04-FixEmails.exe.config
+C:\Users\Laptop\Desktop\C#\Dictionaries, Lambda and LINQ - Exercises\DictionariesLambdaAndLINQ-Exercises\04-FixEmails\bin\Debug\04-FixEmails.exe
+C:\Users\Laptop\Desktop\C#\Dictionaries, Lambda and LINQ - Exercises\DictionariesLambdaAndLINQ-Exercises\04-FixEmails\bin\Debug\04-FixEmails.pdb
+C:\Users\Laptop\Desktop\C#\Dictionaries, Lambda and LINQ - Exercises\DictionariesLambdaAndLINQ-Exercises\04-FixEmails\obj\Debug\04-FixEmails.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\C#\Dictionaries, Lambda and LINQ - Exercises\DictionariesLambdaAndLINQ-Exercises\04-FixEmails\obj\Debug\04-FixEmails.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\C#\Dictionaries, Lambda and LINQ - Exercises\DictionariesLambdaAndLINQ-Exercises\04-FixEmails\obj\Debug\04-FixEmails.exe
+C:\Users\Laptop\Desktop\C#\Dictionaries, Lambda and LINQ - Exercises\DictionariesLambdaAndLINQ-Exercises\04-FixEmails\obj\Debug\04-FixEmails.pdb
